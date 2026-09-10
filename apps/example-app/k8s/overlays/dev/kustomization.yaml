@@ -46,4 +46,4 @@ configMapGenerator:
 
 images:
 - name: tien9a/example-app
-  newTag: dev-latest
+  newTag: 1.0.0
