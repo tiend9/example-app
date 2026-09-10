@@ -45,5 +45,5 @@ configMapGenerator:
   - log_level=DEBUG
 
 images:
-- name: ashik9001/demo-app
+- name: tien9a/example-app
   newTag: dev-latest

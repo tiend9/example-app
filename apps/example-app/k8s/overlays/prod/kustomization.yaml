@@ -45,6 +45,6 @@ configMapGenerator:
   name: example-config
 
 images:
-- name: ashik9001/demo-app
-  newName: docker.io/ashik9001/example-app
+- name: tien9a/example-app
+  newName: docker.io/tien9a/example-app
   newTag: main

@@ -29,7 +29,7 @@ spec:
         fsGroup: 1000
       containers:
       - name: example-app
-        image: ashik9001/demo-app:latest
+        image: tien9a/example-app
         imagePullPolicy: Always
         ports:
         - name: http

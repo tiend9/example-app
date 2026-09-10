@@ -16,8 +16,8 @@ resources:
 
 # Images will be patched by CI/CD and overlays
 images:
-- name: ashik9001/demo-app
-  newName: ashik9001/demo-app
+- name: tien9a/example-app
+  newName: tien9a/example-app
   newTag: latest
 
 # These are placeholder replicas - overridden by overlays
